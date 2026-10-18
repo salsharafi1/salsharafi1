@@ -1,33 +1,22 @@
-<h1>Hi, I'm Shuruq! <br/><a 
- <b> </b>                           
-<h2>👨‍💻 Projects:</h2>
+# Hi, I'm Shuruq 👋
 
-- <b> </b>
-  [Access-Control](https://github.com/salsharafi1/Access-Control-Least-Privilege-Framework/blob/main/README.md)
+Information Systems graduate (First-Class Honors) based in Jeddah, with hands-on experience in cybersecurity compliance (GRC), security log analysis, and Windows Server administration.
 
+## 👩‍💻 Projects
 
-<h2>Certification</h2>
+- [Active Directory Lab: OUs, Groups, and Group Policy](https://github.com/salsharafi1/active-directory-ou-gpo-lab): Windows Server lab covering OUs, nested security groups, and a GPO linked to an OU.
+- [Access Control: Least Privilege Framework](https://github.com/salsharafi1/Access-Control-Least-Privilege-Framework/blob/main/README.md): [add one line describing what you built]
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?
+## 🎓 Certifications
 
-<h2> 🤳 Connect with me:</h2>
+- CompTIA A+ Core 2 (passed), Core 1 in progress
+- IC3 Digital Literacy
+- ISACA member
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## 🛠️ Skills
 
-[linkedin]: https://linkedin.com/in/salsharafi
+Active Directory (AD DS), Windows Server, SQL / Oracle Database, security log analysis, compliance and risk documentation
 
-<!--
-**salsharafi1/salsharafi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤝 Connect with me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/salsharafi) [LinkedIn](https://linkedin.com/in/salsharafi)
