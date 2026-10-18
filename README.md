@@ -1,6 +1,6 @@
 # Hi, I'm Shuruq 👋
 
-Information Systems graduate (First-Class Honors) based in Jeddah, with hands-on experience in cybersecurity compliance (GRC), security log analysis, and Windows Server administration.
+Information Systems graduate (First-Class Honors) with hands-on experience in cybersecurity compliance (GRC), security log analysis, and Windows Server administration.
 
 ## 👩‍💻 Projects
 
